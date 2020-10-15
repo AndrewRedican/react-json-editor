@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+# 2020-09-25
+- Fix line number alignment @czack425
+- Configured eslint @czack425
+- Update to Typescript @czack425
 
 ## [2.5.13] - 2020-10-15
 ### Fix
@@ -22,6 +26,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 - Newline is now accepted in strings @terencehuynh.
+
+## [2.6.0] - 2020-08-06
+### Added
+- Converted to Typescript
+- EsLint added to project @JustFly1984.
 
 ## [2.5.9] - 2018-12-08
 ### Added

@@ -1,6 +1,6 @@
 {
-  "projectName": "react-json-editor-ajrm",
-  "projectOwner": "AndrewRedican",
+  "projectName": "react-json-editor",
+  "projectOwner": "Jerry",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -9,6 +9,16 @@
   "imageSize": 100,
   "commit": true,
   "contributors": [
+    {
+      "login": "czack425",
+      "name": "Jerry",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11284326?v=4",
+      "profile": "https://github.com/czack425",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
     {
       "login": "AndrewRedican",
       "name": "Andrew Redican",
